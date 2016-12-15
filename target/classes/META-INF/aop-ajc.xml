@@ -1,0 +1,12 @@
+<aspectj>
+<aspects>
+<aspect name="com.product.domain.CheckProduct_Roo_Configurable"/>
+<aspect name="com.product.domain.CheckProduct_Roo_ToString"/>
+<aspect name="com.product.domain.ApplicationConversionServiceFactoryBean_Roo_ConversionService"/>
+<aspect name="com.product.domain.CheckProductController_Roo_Controller"/>
+<aspect name="com.product.domain.CheckProduct_Roo_Jpa_ActiveRecord"/>
+<aspect name="com.product.domain.CheckProduct_Roo_JavaBean"/>
+<aspect name="com.product.domain.CheckProduct_Roo_Jpa_Entity"/>
+</aspects>
+</aspectj>
+
