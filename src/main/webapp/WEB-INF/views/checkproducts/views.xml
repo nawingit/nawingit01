@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE tiles-definitions PUBLIC "-//Apache Software Foundation//DTD Tiles Configuration 2.1//EN" "http://tiles.apache.org/dtds/tiles-config_2_1.dtd">
+<tiles-definitions>
+    <definition extends="default" name="checkproducts/list">
+        <put-attribute name="body" value="/WEB-INF/views/checkproducts/list.jspx"/>
+    </definition>
+<definition extends="default" name="checkproducts/show">
+        <put-attribute name="body" value="/WEB-INF/views/checkproducts/show.jspx"/>
+    </definition>
+<definition extends="default" name="checkproducts/create">
+        <put-attribute name="body" value="/WEB-INF/views/checkproducts/create.jspx"/>
+    </definition>
+<definition extends="default" name="checkproducts/update">
+        <put-attribute name="body" value="/WEB-INF/views/checkproducts/update.jspx"/>
+    </definition>
+</tiles-definitions>
